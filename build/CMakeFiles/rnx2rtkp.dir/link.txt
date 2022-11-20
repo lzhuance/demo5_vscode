@@ -1,0 +1,3 @@
+D:\LZ\CMake16\bin\cmake.exe -E rm -f CMakeFiles\rnx2rtkp.dir/objects.a
+D:\LZ\mingw64\bin\ar.exe qc CMakeFiles\rnx2rtkp.dir/objects.a @CMakeFiles\rnx2rtkp.dir\objects1.rsp
+D:\LZ\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\rnx2rtkp.dir/objects.a -Wl,--no-whole-archive -o rnx2rtkp.exe -Wl,--out-implib,librnx2rtkp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\rnx2rtkp.dir\linklibs.rsp

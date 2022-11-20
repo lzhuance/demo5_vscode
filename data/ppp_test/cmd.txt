@@ -1,0 +1,2 @@
+-k ppp_test.conf kitg0010.20o brdm0010.20p gbm20863.sp3 gbm20863.clk -o kitg0010.pos -x 3
+"-k","ppp_test.conf","kitg0010.20o","brdm0010.20p","gbm20863.sp3","gbm20863.clk","-o","kitg0010.pos","-x","3"

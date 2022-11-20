@@ -1,0 +1,107 @@
+[
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\rnx2rtkp.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\rnx2rtkp.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/rnx2rtkp.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\rtkcmn.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\rtkcmn.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/rtkcmn.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\rinex.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\rinex.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/rinex.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\rtkpos.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\rtkpos.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/rtkpos.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\postpos.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\postpos.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/postpos.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\solution.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\solution.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/solution.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\lambda.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\lambda.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/lambda.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\geoid.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\geoid.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/geoid.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\sbas.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\sbas.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/sbas.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\preceph.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\preceph.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/preceph.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\pntpos.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\pntpos.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/pntpos.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\ephemeris.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\ephemeris.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/ephemeris.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\options.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\options.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/options.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\ppp.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\ppp.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/ppp.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\ppp_ar.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\ppp_ar.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/ppp_ar.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\rtcm.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\rtcm.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/rtcm.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\rtcm2.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\rtcm2.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/rtcm2.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\rtcm3.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\rtcm3.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/rtcm3.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\rtcm3e.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\rtcm3e.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/rtcm3e.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\ionex.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\ionex.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/ionex.c"
+},
+{
+  "directory": "C:/Users/LZ/Desktop/demo5_vscode/build",
+  "command": "D:\\LZ\\mingw64\\bin\\gcc.exe -DENACMP -DENAGAL -DENAGLO -DENAIRN -DENAQZS -DNFREQ=5 -DTRACE -DWIN32 @CMakeFiles/rnx2rtkp.dir/includes_C.rsp -g -Wall -O3 -ansi -pedantic -g -o CMakeFiles\\rnx2rtkp.dir\\src\\tides.c.obj -c C:\\Users\\LZ\\Desktop\\demo5_vscode\\src\\tides.c",
+  "file": "C:/Users/LZ/Desktop/demo5_vscode/src/tides.c"
+}
+]

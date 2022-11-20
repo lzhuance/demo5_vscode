@@ -1,0 +1,2 @@
+-k rtk_test.conf usn70010.22o usn80010.22o brdm0010.22p -o kitg0010.pos -x 3
+"-k","rtk_test.conf","usn70010.22o","usn80010.22o","brdm0010.22p","-o","usu70010.pos","-x","3"
